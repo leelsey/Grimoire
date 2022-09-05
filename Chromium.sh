@@ -1,0 +1,42 @@
+/Applications/Chromium.app/Contents/MacOS/Chromium \
+--user-data-dir=$HOME/Library/Application\ Support/Grimoire \
+--window-size=1200,964 \
+--remote-debugging-port=0 \
+--disable-ipc-flooding-protection \
+--disable-xss-auditor \
+--disable-bundled-ppapi-flash \
+--disable-plugins-discovery \
+--disable-default-apps \
+--disable-prerender-local-predictor \
+--disable-save-password-bubble \
+--disable-sync --disable-audio-output \
+--disable-breakpad \
+--disable-crash-reporter \
+--disable-prerender-local-predictor \
+--disk-cache-size=0 \
+--disable-settings-window \
+--disable-notifications \
+--disable-speech-api \
+--disable-file-system \
+--disable-presentation-api \
+--disable-permissions-api \
+--disable-new-zip-unpacker \
+--disable-media-session-api \
+--noerrdialogs \
+--no-experiments \
+--no-events \
+--no-first-run \
+--no-default-browser-check \
+--no-pings \
+--no-service-autorun \
+--media-cache-size=0 \
+--autoplay-policy=document-user-activation-required \
+--overscroll-history-navigation=0 \
+--use-fake-device-for-media-stream \
+--dbus-stub \
+--use-mock-keychain \
+--disable-background-networking \
+--disable-features=ChromeWhatsNewUI \
+--disable-background-networking \
+--disable-sync \
+chrome://newtab
