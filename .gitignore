@@ -4,5 +4,9 @@
 .AppleDouble
 .LSOverride
 ._*
-browser/depot_tools/
-browser/chromium/src/
+browser/Chromium
+browser/Chromium/
+browser/Firefox
+browser/Firefox/
+browser/Webkit
+browser/Webkit/
