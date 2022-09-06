@@ -1,0 +1,8 @@
+.idea
+.vscode
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+browser/depot_tools/
+browser/chromium/src/
