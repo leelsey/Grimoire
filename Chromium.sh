@@ -1,4 +1,4 @@
-/Applications/Chromium.app/Contents/MacOS/Chromium \
+browser/Chromium/chromium/src/out/Default/Chromium.app/Contents/MacOS/Chromium \
 --user-data-dir=$HOME/Library/Application\ Support/Grimoire \
 --window-size=1200,964 \
 --remote-debugging-port=0 \

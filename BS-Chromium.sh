@@ -1,4 +1,4 @@
-/Applications/Chromium.app/Contents/MacOS/Chromium \
+/Applications/Burp\ Suite\ Community\ Edition.app/Contents/Resources/app/burpbrowser/*/Chromium.app/Contents/MacOS/Chromium \
 --user-data-dir=$HOME/.BurpSuite/pre-wired-browser \
 --window-size=1200,964 \
 --remote-debugging-port=0 \
