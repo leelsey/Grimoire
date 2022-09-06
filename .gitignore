@@ -8,5 +8,5 @@ browser/Chromium
 browser/Chromium/
 browser/Firefox
 browser/Firefox/
-browser/Webkit
-browser/Webkit/
+browser/WebKit
+browser/WebKit/
